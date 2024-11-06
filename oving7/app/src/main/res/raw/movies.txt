@@ -1,0 +1,5 @@
+title=Inception;director=Christopher Nolan;actors=Leonardo DiCaprio, Joseph Gordon-Levitt
+title=Titanic;director=James Cameron;actors=Leonardo DiCaprio, Kate Winslet
+title=The Dark Knight;director=Christopher Nolan;actors=Christian Bale, Heath Ledger
+title=The Shining;director=Stanley Kubrick;actors=Jack Nicholson, Shelley Duvall
+title=Rush Hour;director=Brett Ratner;actors=Jackie Chan, Chris Tucker
