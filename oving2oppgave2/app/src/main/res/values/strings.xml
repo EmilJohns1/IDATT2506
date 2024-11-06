@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">oving2oppgave2</string>
+    <string name="adder">Adder</string>
+    <string name="multipliser">Multipliser</string>
+    <string name="svar">Svar:</string>
+    <string name="ovre_grense">Øvre Grense:</string>
+    <string name="riktig">Riktig!</string>
+    <string name="feil">Feil. Riktig svar er:  </string>
+    <string name="feil_string">Skriv et gyldig tall! </string>
+</resources>

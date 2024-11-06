@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/inputNavn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Navn"
+        android:inputType="textNoSuggestions" />
+
+    <EditText
+        android:id="@+id/inputKortnummer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Kortnummer"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/startSpillButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start nytt spill" />
+
+    <EditText
+        android:id="@+id/inputTall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Gjett et tall"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/sendGjettButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send gjett" />
+
+    <TextView
+        android:id="@+id/serverResponse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Server respons vises her"
+        android:textSize="16sp"
+        android:paddingTop="16dp"
+        android:textColor="#000000" />
+
+</LinearLayout>

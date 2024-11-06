@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Øving 4</string>
+
+    <string-array name="movie_titles">
+        <item>Interstellar</item>
+        <item>Cars</item>
+        <item>Toy Story</item>
+        <item>Joker</item>
+        <item>Kingsman: The Secret Service</item>
+    </string-array>
+
+    <string-array name="movie_descriptions">
+        <item>When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.</item>
+        <item>On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn\'t everything in life.</item>
+        <item>A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy\'s bedroom.</item>
+        <item>Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos in Gotham City.</item>
+        <item>A spy organisation recruits a promising street kid into the agency\'s training program, while a global threat emerges from a twisted tech genius.</item>
+    </string-array>
+</resources>
